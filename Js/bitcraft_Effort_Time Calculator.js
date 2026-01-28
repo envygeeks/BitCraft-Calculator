@@ -26,7 +26,8 @@ const foodData = {
     flavorful: { staminaRegen: 19, craftingSpeed: 9.4 },
     delicious: { staminaRegen: 20, craftingSpeed: 9.6 },
     scrumptious: { staminaRegen: 21, craftingSpeed: 9.8 },
-    delectable: { staminaRegen: 22, craftingSpeed: 10 }
+    delectable: { staminaRegen: 22, craftingSpeed: 10 },
+    pumpkin: { staminaRegen: 0.15, craftingSpeed: 0 },
 };
 
 // Stamina drain multipliers by job tier (independent of tool power)
